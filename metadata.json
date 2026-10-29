@@ -1,0 +1,6 @@
+{
+  "name": "Zenonia 3 R36S PortMaster Suite",
+  "description": "Port completo y optimizado de Zenonia 3 para la consola portátil R36S con PortMaster y DarkOS RE, con soporte de resolución 640x480, controles físicos mapeados con gptokeyb y simulador jugable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
